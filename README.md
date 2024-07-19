@@ -1,5 +1,6 @@
 # spoiler-span
 
+[sample](sample)
 ```html
 <span class="spoiler-text">
 ```
